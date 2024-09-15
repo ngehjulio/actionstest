@@ -9,6 +9,7 @@ resource "aws_vpc" "name" {
     Name = "Class30"
     Team = "DevOps"
     Environment = "Prod"
+    Division = "HR"
   }
 }
 
